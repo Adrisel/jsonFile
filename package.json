@@ -1,0 +1,25 @@
+{
+  "name": "jsonFile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc && nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrisel/jsonFile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrisel/jsonFile/issues"
+  },
+  "homepage": "https://github.com/Adrisel/jsonFile#readme"
+}
